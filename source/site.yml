@@ -29,7 +29,7 @@ site:
     - title: Makefile教程
       uri: /books/makefile/index.html
     - title: 博客
-      uri: /blogs/index.html
+      uri: /blogs/all/index.html
   git:
     base-url: https://github.com/lifengdi/xitujuejin.online
   contact:

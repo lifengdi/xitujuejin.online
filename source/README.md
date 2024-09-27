@@ -32,9 +32,6 @@
     <!-- javascript -->
     <div class="home-book-list-item">
         <a href="/books/javascript/index.html" class="home-book-list-image">
-            <div>
-                <img src="/static/cover/javascript.jpg" />
-            </div>
             <div class="home-book-list-title">
                 JavaScript教程
             </div>
@@ -46,9 +43,6 @@
     <!-- sql -->
     <div class="home-book-list-item">
         <a href="/books/sql/index.html" class="home-book-list-image">
-            <div>
-                <img src="/static/cover/sql.jpg" />
-            </div>
             <div class="home-book-list-title">
                 SQL教程
             </div>
@@ -60,9 +54,6 @@
     <!-- summerframework -->
     <div class="home-book-list-item">
         <a href="/books/summerframework/index.html" class="home-book-list-image">
-            <div>
-                <img src="/static/cover/summerframework.jpg" />
-            </div>
             <div class="home-book-list-title">
                 手写Spring
             </div>
@@ -74,9 +65,6 @@
     <!-- jerrymouse -->
     <div class="home-book-list-item">
         <a href="/books/jerrymouse/index.html" class="home-book-list-image">
-            <div>
-                <img src="/static/cover/jerrymouse.jpg" />
-            </div>
             <div class="home-book-list-title">
                 手写Tomcat
             </div>
@@ -88,9 +76,6 @@
     <!-- blockchain -->
     <div class="home-book-list-item">
         <a href="/books/blockchain/index.html" class="home-book-list-image">
-            <div>
-                <img src="/static/cover/blockchain.jpg" />
-            </div>
             <div class="home-book-list-title">
                 区块链教程
             </div>
@@ -102,9 +87,6 @@
     <!-- git -->
     <div class="home-book-list-item">
         <a href="/books/git/index.html" class="home-book-list-image">
-            <div>
-                <img src="/static/cover/git.jpg" />
-            </div>
             <div class="home-book-list-title">
                 Git教程
             </div>
@@ -116,9 +98,6 @@
     <!-- makefile -->
     <div class="home-book-list-item">
         <a href="/books/makefile/index.html" class="home-book-list-image">
-            <div>
-                <img src="/static/cover/makefile.jpg" />
-            </div>
             <div class="home-book-list-title">
                 Makefile教程
             </div>

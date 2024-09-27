@@ -4,9 +4,6 @@
     <!-- java -->
     <div class="home-book-list-item">
         <a href="/books/java/index.html" class="home-book-list-image">
-            <div>
-                <img src="/static/cover/java.jpg" /> 
-            </div>
             <div class="home-book-list-title">
                 Java教程
             </div>
@@ -18,9 +15,6 @@
     <!-- python -->
     <div class="home-book-list-item">
         <a href="/books/python/index.html" class="home-book-list-image">
-            <div>
-                <img src="/static/cover/python.jpg" />
-            </div>
             <div class="home-book-list-title">
                 Python教程
             </div>

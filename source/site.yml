@@ -20,7 +20,7 @@ site:
       uri: /books/sql/index.html
     - title: 手写Spring
       uri: /books/summerframework/index.html
-    - title: 手写Tomcat
+    - title: 手写Tomcath
       uri: /books/jerrymouse/index.html
     - title: 区块链教程
       uri: /books/blockchain/index.html

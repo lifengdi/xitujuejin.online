@@ -282,7 +282,7 @@ gitsite.addContentChangedListener(initExecLang);
 
 /******************** some dynamic script ********************/
 
-documentReady(() => {
-    let t = parseInt(Date.now() / 3600000);
-    gitsite.loadScript(`https://liaoxuefeng-dynamic-1251042815.cos.ap-shanghai.myqcloud.com/js/dynamic.js?t=${t}`, null, true);
-});
+// documentReady(() => {
+//     let t = parseInt(Date.now() / 3600000);
+//     gitsite.loadScript(`https://liaoxuefeng-dynamic-1251042815.cos.ap-shanghai.myqcloud.com/js/dynamic.js?t=${t}`, null, true);
+// });

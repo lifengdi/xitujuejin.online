@@ -52,10 +52,10 @@ site:
   integration:
     comment:
       provider: disqus
-      name: xitujuejin-com
+      name: xitujuejin-online
     analytics:
       provider: baidu
-      gtag: 9f01798465b5952ef48eb1861e048d51
+      id: "9f01798465b5952ef48eb1861e048d51"
   footer: |
     <div>
       &copy;<a href="/">xitujuejin.online</a> 
